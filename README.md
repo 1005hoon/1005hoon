@@ -3,13 +3,13 @@
 ### I'm Hoon Oh, Software Engineer (Front-End) at [SoftlyAI](https://softly.ai/)
 We are here to help communities become more inclusive and engaging ✨
 
-#### ⚡ Interests
+#### 🚀 Interests
 - Building a great product
 - Effective and efficient UI Development
 - Branding and Performance marketing
 
-#### ⚡  Projects
-- [Studytime](http://nullnullstudio.co/motivation)
+#### 👨🏻‍💻 Projects
+- <a href="http://nullnullstudio.co/motivation" target="_blank">동기부여</a>
 
 
 
